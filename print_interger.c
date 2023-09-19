@@ -9,7 +9,7 @@ int fun_intt(va_list args)
 {
 	char digit;
 	unsigned int cst;
-	int num,
+	int num;
 	int exxpp = 1;
 	int len = 0;
 
